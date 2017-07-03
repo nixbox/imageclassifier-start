@@ -190,7 +190,8 @@ public class ImageClassifierActivity extends Activity {
     }
 
     private void onPhotoReady(Bitmap bitmap) {
-        //mImageView.setImageBitmap(bitmap);
+        // Display the image captured by camera on the LCD
+        mImageView.setImageBitmap(bitmap);
         doRecognize(bitmap);
     }
 
