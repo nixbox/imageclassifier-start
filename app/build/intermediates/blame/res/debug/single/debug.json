@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/build/intermediates/res/merged/debug/drawable_sampledog_224x224.jpg.flat",
+        "source": "/Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/res/drawable/sampledog_224x224.jpg"
+    },
+    {
+        "merged": "/Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/build/intermediates/res/merged/debug/layout_layout.xml.flat",
+        "source": "/Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/res/layout/layout.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Sun Jul 02 21:01:58 PDT 2017
+base.0=/Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/build/intermediates/transforms/dexMerger/debug/3
+renamed.0=classes.dex
+file.0=/Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/build/intermediates/transforms/dexMerger/debug/3/classes.dex

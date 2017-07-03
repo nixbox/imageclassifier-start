@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:18:1-45:12
+INJECTED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:18:1-45:12
+MERGED from [com.google.android.things.contrib:driver-rainbowhat:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-rainbowhat-0.3.aar/1adf033c60c0666226eca7cc7390fd3a/AndroidManifest.xml:17:1-30:12
+MERGED from [org.tensorflow:tensorflow-android:1.2.0-preview] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.2.0-preview.aar/27a23216f408275a40ce99718c9ba51d/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.things.contrib:driver-apa102:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-apa102-0.3.aar/3af5059bcab884eb32996091e01c5f44/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.things.contrib:driver-button:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-button-0.3.aar/a7cf4ab4a43e67c23c5cfb2cbb070776/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.things.contrib:driver-bmx280:0.2] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-bmx280-0.2.aar/2c3f6afa48eba88192bb271f4a7904da/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.things.contrib:driver-ht16k33:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-ht16k33-0.3.aar/6bbfb31342d2bdf964146991b565986e/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.things.contrib:driver-pwmspeaker:0.2] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-pwmspeaker-0.2.aar/45576caac9a2f21701b35df2a2764515/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.things.contrib:driver-pwmservo:0.2] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-pwmservo-0.2.aar/f8c14994042bb30fcec17bd62a3e8759/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:18:1-45:12
+	package
+		ADDED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:19:5-56
+		INJECTED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:21:22-77
+uses-permission#android.permission.CAMERA
+ADDED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:23:5-64
+	android:name
+		ADDED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:23:22-62
+application
+ADDED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:25:5-43:19
+MERGED from [com.google.android.things.contrib:driver-rainbowhat:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-rainbowhat-0.3.aar/1adf033c60c0666226eca7cc7390fd3a/AndroidManifest.xml:26:5-28:19
+MERGED from [com.google.android.things.contrib:driver-rainbowhat:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-rainbowhat-0.3.aar/1adf033c60c0666226eca7cc7390fd3a/AndroidManifest.xml:26:5-28:19
+MERGED from [org.tensorflow:tensorflow-android:1.2.0-preview] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.2.0-preview.aar/27a23216f408275a40ce99718c9ba51d/AndroidManifest.xml:5:5-6:19
+MERGED from [org.tensorflow:tensorflow-android:1.2.0-preview] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.2.0-preview.aar/27a23216f408275a40ce99718c9ba51d/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.things.contrib:driver-apa102:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-apa102-0.3.aar/3af5059bcab884eb32996091e01c5f44/AndroidManifest.xml:26:5-28:19
+MERGED from [com.google.android.things.contrib:driver-apa102:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-apa102-0.3.aar/3af5059bcab884eb32996091e01c5f44/AndroidManifest.xml:26:5-28:19
+MERGED from [com.google.android.things.contrib:driver-button:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-button-0.3.aar/a7cf4ab4a43e67c23c5cfb2cbb070776/AndroidManifest.xml:26:5-28:19
+MERGED from [com.google.android.things.contrib:driver-button:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-button-0.3.aar/a7cf4ab4a43e67c23c5cfb2cbb070776/AndroidManifest.xml:26:5-28:19
+MERGED from [com.google.android.things.contrib:driver-bmx280:0.2] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-bmx280-0.2.aar/2c3f6afa48eba88192bb271f4a7904da/AndroidManifest.xml:26:5-28:19
+MERGED from [com.google.android.things.contrib:driver-bmx280:0.2] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-bmx280-0.2.aar/2c3f6afa48eba88192bb271f4a7904da/AndroidManifest.xml:26:5-28:19
+MERGED from [com.google.android.things.contrib:driver-ht16k33:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-ht16k33-0.3.aar/6bbfb31342d2bdf964146991b565986e/AndroidManifest.xml:26:5-28:19
+MERGED from [com.google.android.things.contrib:driver-ht16k33:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-ht16k33-0.3.aar/6bbfb31342d2bdf964146991b565986e/AndroidManifest.xml:26:5-28:19
+MERGED from [com.google.android.things.contrib:driver-pwmspeaker:0.2] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-pwmspeaker-0.2.aar/45576caac9a2f21701b35df2a2764515/AndroidManifest.xml:26:5-28:19
+MERGED from [com.google.android.things.contrib:driver-pwmspeaker:0.2] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-pwmspeaker-0.2.aar/45576caac9a2f21701b35df2a2764515/AndroidManifest.xml:26:5-28:19
+MERGED from [com.google.android.things.contrib:driver-pwmservo:0.2] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-pwmservo-0.2.aar/f8c14994042bb30fcec17bd62a3e8759/AndroidManifest.xml:26:5-28:19
+MERGED from [com.google.android.things.contrib:driver-pwmservo:0.2] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-pwmservo-0.2.aar/f8c14994042bb30fcec17bd62a3e8759/AndroidManifest.xml:26:5-28:19
+	android:label
+		ADDED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:26:9-44
+	android:icon
+		ADDED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:27:9-58
+	android:allowBackup
+		ADDED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:25:18-44
+	android:theme
+		ADDED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:28:9-67
+activity#com.example.androidthings.imageclassifier.ImageClassifierActivity
+ADDED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:30:9-42:20
+	android:name
+		ADDED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:30:19-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:33:27-74
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.IOT_LAUNCHER
+ADDED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:37:13-41:29
+category#android.intent.category.IOT_LAUNCHER
+ADDED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:39:17-80
+	android:name
+		ADDED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:39:27-78
+category#android.intent.category.DEFAULT
+ADDED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:40:17-75
+	android:name
+		ADDED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:40:27-73
+uses-sdk
+INJECTED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml
+INJECTED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.things.contrib:driver-rainbowhat:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-rainbowhat-0.3.aar/1adf033c60c0666226eca7cc7390fd3a/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.things.contrib:driver-rainbowhat:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-rainbowhat-0.3.aar/1adf033c60c0666226eca7cc7390fd3a/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.things.contrib:driver-apa102:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-apa102-0.3.aar/3af5059bcab884eb32996091e01c5f44/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.things.contrib:driver-apa102:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-apa102-0.3.aar/3af5059bcab884eb32996091e01c5f44/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.things.contrib:driver-button:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-button-0.3.aar/a7cf4ab4a43e67c23c5cfb2cbb070776/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.things.contrib:driver-button:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-button-0.3.aar/a7cf4ab4a43e67c23c5cfb2cbb070776/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.things.contrib:driver-bmx280:0.2] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-bmx280-0.2.aar/2c3f6afa48eba88192bb271f4a7904da/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.things.contrib:driver-bmx280:0.2] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-bmx280-0.2.aar/2c3f6afa48eba88192bb271f4a7904da/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.things.contrib:driver-ht16k33:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-ht16k33-0.3.aar/6bbfb31342d2bdf964146991b565986e/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.things.contrib:driver-ht16k33:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-ht16k33-0.3.aar/6bbfb31342d2bdf964146991b565986e/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.things.contrib:driver-pwmspeaker:0.2] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-pwmspeaker-0.2.aar/45576caac9a2f21701b35df2a2764515/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.things.contrib:driver-pwmspeaker:0.2] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-pwmspeaker-0.2.aar/45576caac9a2f21701b35df2a2764515/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.things.contrib:driver-pwmservo:0.2] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-pwmservo-0.2.aar/f8c14994042bb30fcec17bd62a3e8759/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.things.contrib:driver-pwmservo:0.2] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-pwmservo-0.2.aar/f8c14994042bb30fcec17bd62a3e8759/AndroidManifest.xml:22:5-24:41
+INJECTED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml
+INJECTED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml
+uses-library#com.google.android.things
+ADDED from [com.google.android.things.contrib:driver-rainbowhat:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-rainbowhat-0.3.aar/1adf033c60c0666226eca7cc7390fd3a/AndroidManifest.xml:27:9-66
+MERGED from [com.google.android.things.contrib:driver-apa102:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-apa102-0.3.aar/3af5059bcab884eb32996091e01c5f44/AndroidManifest.xml:27:9-66
+MERGED from [com.google.android.things.contrib:driver-apa102:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-apa102-0.3.aar/3af5059bcab884eb32996091e01c5f44/AndroidManifest.xml:27:9-66
+MERGED from [com.google.android.things.contrib:driver-button:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-button-0.3.aar/a7cf4ab4a43e67c23c5cfb2cbb070776/AndroidManifest.xml:27:9-66
+MERGED from [com.google.android.things.contrib:driver-button:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-button-0.3.aar/a7cf4ab4a43e67c23c5cfb2cbb070776/AndroidManifest.xml:27:9-66
+MERGED from [com.google.android.things.contrib:driver-bmx280:0.2] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-bmx280-0.2.aar/2c3f6afa48eba88192bb271f4a7904da/AndroidManifest.xml:27:9-66
+MERGED from [com.google.android.things.contrib:driver-bmx280:0.2] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-bmx280-0.2.aar/2c3f6afa48eba88192bb271f4a7904da/AndroidManifest.xml:27:9-66
+MERGED from [com.google.android.things.contrib:driver-ht16k33:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-ht16k33-0.3.aar/6bbfb31342d2bdf964146991b565986e/AndroidManifest.xml:27:9-66
+MERGED from [com.google.android.things.contrib:driver-ht16k33:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-ht16k33-0.3.aar/6bbfb31342d2bdf964146991b565986e/AndroidManifest.xml:27:9-66
+MERGED from [com.google.android.things.contrib:driver-pwmspeaker:0.2] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-pwmspeaker-0.2.aar/45576caac9a2f21701b35df2a2764515/AndroidManifest.xml:27:9-66
+MERGED from [com.google.android.things.contrib:driver-pwmspeaker:0.2] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-pwmspeaker-0.2.aar/45576caac9a2f21701b35df2a2764515/AndroidManifest.xml:27:9-66
+MERGED from [com.google.android.things.contrib:driver-pwmservo:0.2] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-pwmservo-0.2.aar/f8c14994042bb30fcec17bd62a3e8759/AndroidManifest.xml:27:9-66
+MERGED from [com.google.android.things.contrib:driver-pwmservo:0.2] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-pwmservo-0.2.aar/f8c14994042bb30fcec17bd62a3e8759/AndroidManifest.xml:27:9-66
+	android:name
+		ADDED from [com.google.android.things.contrib:driver-rainbowhat:0.3] /Users/qasimj/.gradle/caches/transforms-1/files-1.1/driver-rainbowhat-0.3.aar/1adf033c60c0666226eca7cc7390fd3a/AndroidManifest.xml:27:23-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:18:1-45:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/src/main/AndroidManifest.xml:18:1-45:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4

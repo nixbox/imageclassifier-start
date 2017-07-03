@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Mon Jul 03 13:45:49 PDT 2017
+2.base=/Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/build/intermediates/res/debug/resources-debug.ap_
+5.file=/Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/build/intermediates/assets/debug/tensorflow_inception_graph.pb
+5.set=ASSET
+3.base=/Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/build/intermediates/res/debug/resources-debug.ap_
+6.file=/Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/build/intermediates/res/debug/resources-debug.ap_/AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+4.base=/Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/build/intermediates/assets/debug
+count=7
+0.file=/Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/build/intermediates/assets/debug/LICENSE
+5.base=/Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/build/intermediates/assets/debug
+4.set=ASSET
+6.base=/Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/build/intermediates/res/debug/resources-debug.ap_
+1.file=/Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/build/intermediates/res/debug/resources-debug.ap_/resources.arsc
+1.set=ANDROID_RESOURCE
+2.file=/Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/build/intermediates/res/debug/resources-debug.ap_/res/drawable/sampledog_224x224.jpg
+6.set=ANDROID_RESOURCE
+0.base=/Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/build/intermediates/assets/debug
+3.file=/Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/build/intermediates/res/debug/resources-debug.ap_/res/layout/layout.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/build/intermediates/res/debug/resources-debug.ap_
+4.file=/Users/qasimj/androidthings-imageclassifier/imageclassifier-start/app/build/intermediates/assets/debug/imagenet_comp_graph_label_strings.txt
+0.set=ASSET

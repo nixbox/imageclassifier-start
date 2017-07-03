@@ -1,0 +1,3 @@
+int drawable sampledog_224x224 0x7f010000
+int id imageView 0x7f020000
+int layout layout 0x7f030000
